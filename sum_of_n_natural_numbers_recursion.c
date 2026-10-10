@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int sum(int a);
+int sum(int n);
 
 int main()
 {
